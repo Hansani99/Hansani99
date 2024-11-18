@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Applying for QA and Business Analyst roles while enhancing my skills in both areas.<br>I'm looking to collaborate on: QA or Business Analysis-related projects.<br>I'm looking for help on: Expanding skills in Business Analysis tools and techniques.<br>I'm currently learning: Business Analysis concepts and techniques.<br>Ask me about: QA testing, teamwork, or career transitions.<br>Fun facts: I enjoy solving tech puzzles and analyzing systems to improve them!
+I'm currently working on: Applying for QA and Business Analyst roles while enhancing my skills in both areas.<br>I'm looking to collaborate on: QA or Business Analysis-related projects.<br>I'm looking for help on: Expanding skills in Business Analysis tools and techniques.<br>I'm currently learning: Business Analysis concepts and techniques.<br>Ask me about: QA testing, teamwork, or career transitions.<br>Fun facts: The average developer writes about 10-20 lines of bug-free code per day—quality over quantity! 🐞✅
 
 
 ## 🌐 Socials:
