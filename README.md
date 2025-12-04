@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on: Applying for QA and Business Analyst roles while enhancing my skills in both areas.<br>I'm looking to collaborate on: QA or Business Analysis-related projects.<br>I'm looking for help on: Expanding skills in Business Analysis tools and techniques.<br>I'm currently learning: Business Analysis concepts and techniques.<br>Ask me about: QA testing, teamwork, or career transitions.<br>Fun facts: The average developer writes about 10-20 lines of bug-free code per day—quality over quantity! 🐞✅
+🔍 I'm currently working on: Advancing my expertise in Quality Assurance, including functional testing, automation, API testing, and Agile QA practices.
+🤝 I'm looking to collaborate on: QA-related projects, test automation initiatives, or software quality improvement tasks.
+💡 I'm looking for help with: Enhancing skills in advanced testing techniques, automation frameworks, and performance testing.
+📚 I'm currently learning: Test automation, API testing, CI/CD workflows, and modern QA methodologies.
+💬 Ask me about: Manual testing, API testing, QA best practices, test case design, or transitioning into the QA field.
+✨ Fun fact: Even the best developers introduce bugs—quality assurance is what keeps software reliable and user-friendly! 🐞✔️
 
 
 ## 🌐 Socials:
